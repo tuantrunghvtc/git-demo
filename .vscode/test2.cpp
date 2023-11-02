@@ -22,7 +22,7 @@ int main()
     }
 
   }
-    cout <<"Menor valor: "<< V << endl;
+    cout <<"Menor valor 2: "<< V << endl;
     cout <<"Posicao: "<< P << endl;
   
   return 0;
