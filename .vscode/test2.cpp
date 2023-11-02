@@ -23,7 +23,7 @@ int main()
 
   }
     cout <<"Menor valor 2: "<< V << endl;
-    cout <<"Posicao: "<< P << endl;
+    cout <<"Posicao 3: "<< P << endl;
   
   return 0;
 }
