@@ -23,7 +23,12 @@ int main()
 
   }
     cout <<"Menor valor 2: "<< V << endl;
+<<<<<<< HEAD
     cout <<"Posicao 2: "<< P << endl;
     cout <<"Posicao 2: "<< P << endl;
+=======
+    cout <<"Posicao 3: "<< P << endl;
+  
+>>>>>>> cfd4ead1a617b198370bed40c5afb4bd9c66b2f8
   return 0;
 }
